@@ -3,37 +3,37 @@ divCard = document.getElementById("card")
 const paginas = [
     {
         Nome:"Setor",
-        imagem:"./cadastroExemplp.jfif",
+        imagem:"./img/administracao.png",
         descricao:"",
         link: "link"
     },
     {
         Nome:"Unidade",
-        imagem:"./cadastroExemplp.jfif",
-        descricao:"xuxu",
+        imagem:"./img/administracao.png",
+        descricao:"",
         link: "link"
     },
     {
         Nome:"Cadastro",
-        imagem:"./cadastroExemplp.jfif",
+        imagem:"./img/administracao.png",
         descricao:"",
         link: "link"
     },
     {
         Nome:"Inventário",
-        imagem:"./cadastroExemplp.jfif",
+        imagem:"./img/administracao.png",
         descricao:"",
         link: "link"
     },
     {
         Nome:"Usuarios",
-        imagem:"./cadastroExemplp.jfif",
+        imagem:"./img/administracao.png",
         descricao:"",
         link: "link"
     },
     {
         Nome:"Gestão",
-        imagem:"./cadastroExemplp.jfif",
+        imagem:"./img/administracao.png",
         descricao:"",
         link:"link"
     },

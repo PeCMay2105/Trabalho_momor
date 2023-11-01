@@ -1,7 +1,7 @@
 /*Topo*/
 .main_header {
     width: 100%;
-    background-color: 	#000080;
+    background-image: -moz-linear-gradient(top,#6495ED, #D3D3D3);
 
 
 }
@@ -20,6 +20,10 @@
     border: solid 2px black;
     border-radius: 10px;
     
+}
+
+.card:hover{
+    transform: scale(1.1);
 }
 
 a{
@@ -64,7 +68,7 @@ a{
     display: flex;
     align-items: center;
     height: 100%;
-    color:#d36833;
+    color:#000000;
 }
 
 .main_header_content_menu ul li a:hover{

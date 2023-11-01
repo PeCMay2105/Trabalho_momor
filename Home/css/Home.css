@@ -1,0 +1,75 @@
+/*Topo*/
+.main_header {
+    width: 100%;
+    background-color: 	#000080;
+
+
+}
+
+.pags{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3vh;
+    padding: 5vh;
+
+}
+
+.card{
+    margin:3vh 3vh 3vh 3vh;
+    border: solid 2px black;
+    border-radius: 10px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.main_header .main_header_content {
+    max-width: 1300px;
+    justify-content: space-between;
+    margin: 0 auto;
+    display: flex;
+    
+}
+.logo{
+    scale:0.9
+}
+
+.main_header .main_header_content .logo {
+    height: 25vh;
+    width: 290px;
+}
+
+.main_header .main_header_content .main_header_content_menu {
+    flex-basis: calc(100% - 330px);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main_header_content_menu ul {
+    display: flex;
+    align-items: stretch;
+}
+
+.main_header_content_menu ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+
+.main_header_content_menu ul li a{
+    padding: 0 26px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    color:#d36833;
+}
+
+.main_header_content_menu ul li a:hover{
+    color:#fff;
+    background-color: #d36833;
+}
+
+
